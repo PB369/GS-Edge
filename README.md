@@ -32,10 +32,10 @@
 
 <h3>Links</h3>
 <ul>
-  <li><p>Simulação:</p>
-  <a>https://wokwi.com/projects/381932710841125889</a>
+  <li><p>Simulação:
+   <a>https://wokwi.com/projects/381932710841125889</a></p>
   </li>
-  <li><p>Plataforma HiveMQ:</p>
-  <a>https://wokwi.com/projects/381932710841125889</a>
+  <li><p>Plataforma HiveMQ: 
+  <a>https://wokwi.com/projects/381932710841125889</a></p>
   </li>
 </ul>

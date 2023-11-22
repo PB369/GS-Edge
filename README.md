@@ -20,5 +20,12 @@
 <h3>Instruções de Uso</h3>
 <p>Para acessar a nossa simulação siga o passo a passo listado abaixo:</p>
 <ol>
-  <li>Oi kkk</li>
+  <li>Acesse o link do nosso projeto, construído na plataforma Wokwi (https://wokwi.com/projects/381932710841125889).</li>
+  <li>Acesse o link da plataforma HiveMQ para vizualizar a transmição de dados via MQTT (https://www.hivemq.com/demos/websocket-client/).</li>
+  <li>Na plataforma HiveMQ, clique no botão "Connect".</li>
+  <li>Em seguida, na área "Subscriptions", clique no botão "Add New Topic Substription".</li>
+  <li>Insira no input "topic" o seguinte texto: "topico_bpm/#". Depois clique no botão "Subscribe".</li>
+  <li>Na plataforma Wokwi, clique no botão verde para iniciar a simulação e aguarde a copilação do código (Isto pode demorar um pouco).</li>
+  <li>Tento iniciado a simulação, você poderá clicar no chip "Pulse Generator Breakout" para alterar o valor dos batimentos cardíacos.</li>
+  <li>Na plataforma HiveMQ, observe a chegada dos BPMs na seção "Messages".</li>
 </ol>

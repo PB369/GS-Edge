@@ -33,9 +33,9 @@
 <h3>Links</h3>
 <ul>
   <li><p>Simulação:</p>
-  <a target="_blank">https://wokwi.com/projects/381932710841125889</a>
+  <a>https://wokwi.com/projects/381932710841125889</a>
   </li>
   <li><p>Plataforma HiveMQ:</p>
-  <a target="_blank">https://wokwi.com/projects/381932710841125889</a>
+  <a>https://wokwi.com/projects/381932710841125889</a>
   </li>
 </ul>

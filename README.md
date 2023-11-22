@@ -1,4 +1,8 @@
 <h1>NotreCare - Unindo a inovação à uma vida mais saudável.</h1>
+<ul>
+  <li>RM99499 – GUILHERME MONTEIRO ESPIM</li>
+  <li>RM97937 – PEDRO HENRIQUE FERNANDES LÔ DE BARROS</li>
+</ul>
 
 <h2>Descrição do Problema</h2>
 <p>Todos os anos, cerca de 400 mil brasileiros morrem devido a problemas cardiovasculares. Ao mesmo tempo, 14 milhões de pessoas possuem alguma doença relacionada ao coração. Dentre as principais causas deste problema, podemos citar o sedentarismo, a hipertensão, o estresse, o tabagismo e o colesterol. Pessoas com diabetes possuem de duas a até quatro vezes mais chances de sofrer de um infarto.

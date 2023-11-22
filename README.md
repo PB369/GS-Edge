@@ -33,5 +33,5 @@
 <h3>Links</h3>
 <ul>
   <li>Simulação: https://wokwi.com/projects/381932710841125889</li>
-  <li>Plataforma HiveMQ: https://wokwi.com/projects/381932710841125889</li>
+  <li>Plataforma HiveMQ: https://www.hivemq.com/demos/websocket-client/</li>
 </ul>

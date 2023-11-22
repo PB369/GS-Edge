@@ -1,9 +1,3 @@
-<style>
-  p, li {
-    text-align: "center";
-  }
-</style>
-
 <h1>CareBand</h1>
 <h2>Unindo a inovação à uma vida mais saudável.</h2>
 
